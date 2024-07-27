@@ -1,0 +1,40 @@
+# License
+
+## Custom License Terms for Thukuna - CIFAR10 Image Recognition Model
+
+This repository, including all code, models, and documentation, is owned by [Your Full Name] (the "Owner"). It is licensed under the following terms:
+
+### Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0). You are free to:
+
+- **Share** — Copy and redistribute the material in any medium or format.
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to the Owner, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the Owner endorses you or your use.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — You may not modify, remix, or build upon the material. This includes creating derivative works or adaptations of the model.
+
+**Additional Restrictions:**
+
+- **No Commercial Use:** The model and its outputs cannot be used for any commercial purposes, including but not limited to selling, licensing, or incorporating the model into commercial products or services.
+- **No Redistribution:** You may not redistribute or sublicense the model or any derivative works created using this model.
+- **Attribution Required:** All use of this model, including any modified versions or derivative works, must include proper attribution to the Owner, specifying that the model is provided under the CC BY-NC-ND 4.0 license. This applies even if the model has been modified.
+- **No Endorsement:** You may not imply endorsement or support by the Owner of any use or application of the model.
+
+**Ownership:**
+
+All rights, title, and interest in and to the model, including any related intellectual property rights, are owned exclusively by Timur Hromek.
+
+**Full License Text:**
+
+You can view the full license details at: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+**Disclaimer:**
+
+This license does not grant you any rights to use any third-party content or data that may be included in this model. You are responsible for ensuring that your use complies with any applicable laws or third-party agreements.
+
+---
+
+By using this model, you agree to comply with the terms of the CC BY-NC-ND 4.0 license and the additional restrictions stated above.
